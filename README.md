@@ -1,16 +1,16 @@
-                                                                 Hi 👋, I'm Nitin G.R
-                                             A passionate Frontend developer and cyber-secutity enthusist from India     
-What Am I doing ?:
+<h3 align="center">A passionate frontend developer from India</h3>
 
-🧭 Currently Exploring on INTERNET OF THINGS 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitingramesh&label=Profile%20views&color=0e75b6&style=flat" alt="nitingramesh" /> </p>
 
-💻 I’m currently learning Something new Everyday
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitingramesh" alt="nitingramesh" /></a> </p>
 
-🏻 I don't say no to Collaboration, Hackathon.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nitingramesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitingramesh/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_nitin_g.r._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_nitin_g.r._/" height="30" width="40" /></a>
+</p>
 
-📫 How to reach me nitinganjamramesh0503@gmail.com
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-Connect with me:
-https://www.instagram.com/_nitin_g.r._/
-https://www.linkedin.com/in/nitingramesh/
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitingramesh&show_icons=true&locale=en" alt="nitingramesh" /></p>
