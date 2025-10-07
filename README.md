@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **Devops and SRE**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nitingramesh?tab=repositories](https://github.com/nitingramesh?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/nitingramesh](https://github.com/nitingramesh)
 
 - 📫 How to reach me **nitinganjam@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1orkhHPPAoV8VIjL8X5alW8lLWDw97PKG/view?usp=drive_link](https://drive.google.com/file/d/1orkhHPPAoV8VIjL8X5alW8lLWDw97PKG/view?usp=drive_link)
+- 📄 Know about my experiences [https://tinyurl.com/4j3hax3w](https://tinyurl.com/4j3hax3w)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
